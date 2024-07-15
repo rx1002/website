@@ -1,0 +1,45 @@
+h1 {
+    color:green;
+}
+
+p{
+    color:deeppink;
+}
+
+button{
+    color: navy;
+    background-color: rgb(225, 225, 237);
+}
+
+    body {
+        background-color: black;
+        background-color: #095548;
+
+        #box{
+        background-color: white;
+
+        }
+
+        .heading {
+            color:bisque
+        }
+
+        div{
+            text-align: center;
+        }
+
+        P{
+            text-align: center;
+        }
+
+        h1{
+            text-align: center;
+        }
+
+
+
+
+        
+    }
+    
+    
